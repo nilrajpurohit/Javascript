@@ -1,5 +1,5 @@
 // User SingUp.
-// Basically The Data we took from WebPage (Form Tag) but this is just an example.
+// Basically The Data we take from WebPage (Form Tag) but this is just an example.
 
 var name = "Nil";
 var surname = "Rajpuohit";
